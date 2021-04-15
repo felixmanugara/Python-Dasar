@@ -1,7 +1,7 @@
 # belajar variabel
 # variabel adalah sebuah wadah untuk menampung data
 
-# contoh di bawah merupakan a sebagai variabel 15 adalah value
+# contoh di bawah merupakan a sebagai variabel 15 adalah data dari variabel
 # contoh assignment nilai
 a = 15
 y = 68

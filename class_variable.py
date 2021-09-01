@@ -1,3 +1,5 @@
+# Belajar membuat class object dengan variabel
+
 class pelajar:
     # kedua variabel di bawah merupakan variabel kelas
     jurusan = "komputer"

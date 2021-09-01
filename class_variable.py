@@ -23,5 +23,6 @@ print(manugara.nama)
 # output nilai adalah sosiologi, ini tidak akan mempengaruhi nilai instances lainnya
 print(manugara.jurusan)
 print(felix.jurusan)
+print(manugara.kelas)
 # output berupa angka 3 karena kita menambahkan 3 instances ke dalam class pelajar
 print(pelajar.jumlah_anggota)

@@ -33,4 +33,3 @@ food = {'bakmi':'jumbo',
 # bisa menggunakan .keys() atau .values()
 for i in food.items():
     print(i)
-

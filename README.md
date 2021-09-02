@@ -6,7 +6,7 @@ dapat dilihat di bawah ini.
 
 ## Link Video
 
-https://youtu.be/iA8lLwmtKQM
+https://youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1
 
 # Requirements 
 

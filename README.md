@@ -14,6 +14,6 @@ https://youtu.be/iA8lLwmtKQM
 - VScode (optional) https://code.visualstudio.com/download
 
 # How to Install
-installasi dapat dilihat pada video berikut. https://youtu.be/OSmaWPSgvTQ
+Petunjuk installasi dapat dilihat pada video berikut. https://youtu.be/OSmaWPSgvTQ
 
 
